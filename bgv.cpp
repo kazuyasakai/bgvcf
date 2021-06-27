@@ -1,3 +1,7 @@
+/*
+ * This program is Licensed under the Apache License, Version 2.0
+*/
+
 #include <NTL/ZZ.h>
 #include <NTL/BasicThreadPool.h>
 #include "FHE.h"
